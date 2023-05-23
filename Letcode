@@ -2,5 +2,8 @@
 <head>
 <title>html structure</title>
 <body>
-<div></div>
+<div>
+<lable="name">
+<input type="textbox">
+</div>
 </body>
